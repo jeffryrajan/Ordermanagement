@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="add_order">Add Order</string>
+    <string name="logo">Logo</string>
+    <string name="pending_order_count">Pending Orders</string>
+    <string name="Order_id">ID</string>
+    <string name="Customer_name">Name</string>
+    <string name="product">Product</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="date_of_order">Date of Order</string>
+    <string name="expected_dispatch">Expected Dispatch</string>
+    <string name="notes">Notes</string>
+    <string name="order_status">Order Status</string>
+    <string name="submit">Submit</string>
+    <string name="view_orders">View Orders</string>
+    <string name="amount_paid">Amount Paid</string>
+
+</resources>
